@@ -98,8 +98,55 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit Community
 - Mars Science Laboratory Mission
 
-## Contact
+## 👥 Our Stellar Team
 
-LinkedIN - [Muhammad Humam Tahir](https://www.linkedin.com/in/muhammad-humam-tahir-470267178/) 
-
-Project Link: [https://github.com/Humam-hub/Mars/tree/main](https://github.com/Humam-hub/Mars/tree/main)
+<div align="center">
+<table>
+<tr>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Muhammad Humam"/><br>
+        <b>Muhammad Ibrahim Qasmi</b><br>
+        <sub>Project Lead</sub><br>
+        <a href="https://github.com/Humam-hub"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/muhammad-humam-tahir-470267178/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Sarah Chen"/><br>
+        <b>Tayyab Sajjad</b><br>
+        <sub>AI Engineer</sub><br>
+        <a href="https://github.com/sarahchen"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/sarahchen"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="David Rodriguez"/><br>
+        <b>Zeeshan Younus</b><br>
+        <sub>Frontend Expert</sub><br>
+        <a href="https://github.com/davidr"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/davidr"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+</tr>
+<tr>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Emma Patel"/><br>
+        <b>Ubaid Ullah</b><br>
+        <sub>Backend Developer</sub><br>
+        <a href="https://github.com/emmapatel"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/emmapatel"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Liam Johnson"/><br>
+        <b>Tayyab Hussain</b><br>
+        <sub>Data Scientist</sub><br>
+        <a href="https://github.com/liamj"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/liamj"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Sophia Lee"/><br>
+        <b>Humam Tahir</b><br>
+        <sub>DevOps Engineer</sub><br>
+        <a href="https://github.com/sophial"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/sophial"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+</tr>
+</table>
+</div>
