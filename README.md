@@ -114,7 +114,7 @@
     </td>
     <td align="center">
         <img src="https://avatars.githubusercontent.com/u/70429018?v=4" width="100px;" style="border-radius: 50%;" alt="Humama Tahir"/><br>
-        <b>Humama Tahir</b><br>
+        <b>Humam Tahir</b><br>
         <sub>Operations Specialist</sub><br>
         <a href="https://github.com/Humam-hub"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
         <a href="https://www.linkedin.com/in/muhammad-humam-tahir-470267178/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
