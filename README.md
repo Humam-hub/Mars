@@ -1,127 +1,158 @@
 <div align="center">
 
-# 🚀 Journey to Mars: The Ultimate Red Planet Experience
+# 🌠 Humans to Mars 
 
-[<img src="https://img.shields.io/badge/Experience_Mars-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />](https://mars-explorer.streamlit.app)
-[<img src="https://img.shields.io/github/stars/Humam-hub/Mars?style=for-the-badge&logo=github&color=gold&logoColor=white" />](https://github.com/Humam-hub/Mars/stargazers)
-[<img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge" />](https://choosealicense.com/licenses/mit/)
-[<img src="https://img.shields.io/badge/Made_with-Interplanetary_Love-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMjFjLTEuNjU0IDAtMyAtMS4zNDYtMyAtM3YtLjAwMWMwLTEuNjU0IDEuMzQ2LTMgMy0zczMgMS4zNDYgMyAzcy0xLjM0NiAzLTMgM3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />](https://github.com/Humam-hub/Mars)
+<img src="mars.gif" 
+     width="100%" 
+     alt="Mars Animation Banner"/>
 
-> *"Space is for everybody. It's not just for a few people in science or math, or for a select group of astronauts. That's our new frontier out there, and it's everybody's business."* - Christa McAuliffe
+### Embark on Your Journey to the Red Planet
 
-<img src="https://cdn.britannica.com/01/81401-050-8EB87030/planets-solar-system-Pluto-montage-images-Sun.jpg" width="800"/>
+[![Stars](https://img.shields.io/github/stars/Humam-hub/Mars?style=for-the-badge&logo=github&color=red&logoColor=white)](https://github.com/Humam-hub/Mars/stargazers)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://mars-explorer.streamlit.app)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Made with Love](https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge)](https://github.com/Humam-hub/Mars)
+
+> *"Mars is there, waiting to be reached"* - Buzz Aldrin
+
+<img src="https://cdn.britannica.com/01/81401-050-8EB87030/planets-solar-system-Pluto-montage-images-Sun.jpg" width="500"/>
 
 </div>
 
-## 🌌 Welcome to the Future of Mars Exploration
+<div align="center">
 
-Experience Mars like never before with our groundbreaking platform that brings the Red Planet right to your fingertips. Whether you're a space enthusiast, researcher, or dreamer, our suite of tools will transport you millions of miles away - all from the comfort of your device.
-
-### 🎯 Why Choose Our Platform?
-
-- **Real-Time Mars Data**: Direct feed from NASA's active Mars missions
-- **AI-Powered Insights**: Advanced analysis of Martian phenomena
-- **Interactive Experience**: Engage with Mars in ways previously impossible
-- **Universal Access**: Available on any device, anywhere on Earth
-- **Educational Focus**: Perfect for students, educators, and lifelong learners
-
-## 🛸 Core Mission Features
+## 🌟 Experience Mars Like Never Before
 
 <table>
 <tr>
 <td width="50%">
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" width="100%"/>
-<h3 align="center">🤖 AI Mars Expert</h3>
-<p align="center">Our state-of-the-art AI analyzes Martian data in real-time, providing unprecedented insights into the Red Planet's mysteries.</p>
+<h3 align="center">AI-Powered Mars Expert 🤖</h3>
+<p align="center">Your personal guide to all things Mars, powered by cutting-edge AI</p>
 </td>
 <td width="50%">
 <img src="https://cdn.dribbble.com/users/2008861/screenshots/15526330/media/75d00bc57f50dd8f9cff457430a4f557.gif" width="100%"/>
-<h3 align="center">📊 Live Mars Dashboard</h3>
-<p align="center">Monitor real-time conditions on Mars, from weather patterns to geological activities, with our comprehensive dashboard.</p>
+<h3 align="center">Live Mars Data 📊</h3>
+<p align="center">Real-time insights from the Red Planet's surface</p>
 </td>
 </tr>
 </table>
 
-## 🎮 Interactive Features
+## 🚀 Mission Control Features
 
-| Feature | Description | Status |
-|---------|-------------|--------|
-| 🧠 **Neural Mars AI** | Advanced AI system trained on decades of Mars research | ✅ Live |
-| 🛰️ **Satellite Feed** | Real-time imagery from Mars-orbiting satellites | ✅ Live |
-| 🌡️ **Weather Station** | Current Martian atmospheric conditions | ✅ Live |
-| 🚗 **Rover Control** | Virtual rover navigation experience | 🔄 Beta |
-| 🎓 **Mars Academy** | Interactive learning modules about Mars | ✅ Live |
-| 🔬 **Science Lab** | Analyze Martian soil and atmospheric samples | 🔄 Beta |
-
-## 👨‍🚀 Meet the Pioneers
-
-Our team of dedicated experts is pushing the boundaries of Mars exploration technology:
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 
 <table>
 <tr>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/147333130?v=4" width="100px" style="border-radius: 50%"/>
-<br />
-<b>Muhammad Ibrahim Qasmi</b>
-<br />
-Mission Commander
-<br />
-<a href="https://github.com/muhammadibrahim313"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ibrahim-qasmi-9876a1297/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-</td>
-<!-- [Similar blocks for other team members] -->
+<th>Feature</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>🤖 <b>AI Expert Chat</b></td>
+<td>Engage in deep space conversations with our Groq-powered AI</td>
+</tr>
+<tr>
+<td>🛸 <b>NASA Integration</b></td>
+<td>Access real-time data streams from active Mars missions</td>
+</tr>
+<tr>
+<td>🎮 <b>Space Quiz</b></td>
+<td>Test your cosmic knowledge with our interactive challenges</td>
+</tr>
+<tr>
+<td>📊 <b>Weather Station</b></td>
+<td>Monitor Mars' atmosphere with our real-time weather tracker</td>
+</tr>
+<tr>
+<td>🖼️ <b>Rover Vision</b></td>
+<td>Experience Mars through the eyes of NASA's rovers</td>
+</tr>
+<tr>
+<td>📱 <b>Universal Access</b></td>
+<td>Seamless experience across all your devices</td>
 </tr>
 </table>
 
-## 🛠️ Technology Stack
+## 👥 Mission Specialists
 
-```mermaid
-graph TD
-    A[Frontend] --> B[Streamlit]
-    A --> C[React]
-    D[Backend] --> E[Python]
-    D --> F[NASA API]
-    G[AI Core] --> H[Groq]
-    G --> I[TensorFlow]
-```
+<table>
+<tr>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/147333130?v=4" width="100px;" style="border-radius: 50%;" alt="Muhammad Humam"/><br>
+        <b>Muhammad Ibrahim Qasmi</b><br>
+        <sub>Mission Commander</sub><br>
+        <a href="https://github.com/muhammadibrahim313"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://www.linkedin.com/in/muhammad-ibrahim-qasmi-9876a1297/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/124726671?v=4" width="100px;" style="border-radius: 50%;" alt="Tayyab Sajjad"/><br>
+        <b>Tayyab Sajjad</b><br>
+        <sub>AI Engineer</sub><br>
+        <a href="https://github.com/devtayyabsajjad"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://linkedin.com/in/devtayyabsajjad"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/73097560?v=4" width="100px;" style="border-radius: 50%;" alt="Zeeshan Younus"/><br>
+        <b>Zeeshan Younus</b><br>
+        <sub>Interface Architect</sub><br>
+        <a href="https://github.com/Zeeshan5932"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://www.linkedin.com/in/zeeshan-younas-919a09253/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/191659569?v=4" width="100px;" style="border-radius: 50%;" alt="Ubaid Ullah"/><br>
+        <b>Ubaid Ullah</b><br>
+        <sub>Systems Engineer</sub><br>
+        <a href="https://github.com/ubaidullah2002"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://www.linkedin.com/in/ubaid-ullah24/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQF9L9W34MZE8w/profile-displayphoto-shrink_200_200/B4DZPLuGtoG0AY-/0/1734289683949?e=1744848000&v=beta&t=weE60c_rN4vCRdZpvCiLeuxX7pN6M-tm0KLmINyWhqE" width="100px;" style="border-radius: 50%;" alt="Tayyab Hussain"/><br>
+        <b>Tayyab Hussain</b><br>
+        <sub>Data Analytics Lead</sub><br>
+        <a href="https://github.com/liamj"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://www.linkedin.com/in/tayyab-hussain-72b972267/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/70429018?v=4" width="100px;" style="border-radius: 50%;" alt="Humama Tahir"/><br>
+        <b>Humama Tahir</b><br>
+        <sub>Operations Specialist</sub><br>
+        <a href="https://github.com/Humam-hub"><img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="16px"></a>
+        <a href="https://www.linkedin.com/in/muhammad-humam-tahir-470267178/"><img src="https://cdn-icons-png.flaticon.com/24/61/61109.png" width="16px"></a>
+    </td>
+</tr>
+</table>
 
-## 🚀 Quick Launch Guide
+## 🛠️ Technology Arsenal
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+## 🚀 Launch Sequence
+
+</div>
 
 ```bash
-# Clone the mission
+# Initialize mission
 git clone https://github.com/Humam-hub/Mars.git
 
-# Prepare for launch
-cd Mars
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install mission systems
+# Install life support systems
 pip install -r requirements.txt
 
-# Initiate launch sequence
+# Launch to orbit
 streamlit run app.py
 ```
 
-## 🌍 Community & Support
-
-- 📚 [Documentation](https://mars-docs.streamlit.app)
-- 💬 [Discord Community](https://discord.gg/mars-explorers)
-- 🐛 [Issue Tracker](https://github.com/Humam-hub/Mars/issues)
-- 📧 [Contact Us](mailto:mars@example.com)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Humam-hub/Mars&type=Date)](https://star-history.com/#Humam-hub/Mars&Date)
-
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 🌎 Join the Mission to Mars 🔴
+<br><br>
 
-<sub>Every star ⭐ helps us get closer to Mars. If you enjoy this project, please consider giving it a star!</sub>
+<h2>Crafted with ❤️ by the Humans to Mars Team</h2>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ---
 
-<sub>© 2025 Mars Explorer Team | Licensed under MIT</sub>
-
+<sub>Join us in making history. The Red Planet awaits. 🌎 → 🔴</sub>
 </div>
+
